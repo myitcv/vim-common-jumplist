@@ -22,4 +22,9 @@ git clone git@github.com:myitcv/vim-common-jumplist.git ~/.vim/bundle/vim-common
 1. Add support for all jump commands
 2. Need to add support for global change list
 
+# License
+
+Copyright (c) Paul Jolly. Distributed under the same terms as Vim itself. See [`:help
+license`](http://vimdoc.sourceforge.net/htmldoc/uganda.html)
+
 [pathogen]: https://github.com/tpope/vim-pathogen
