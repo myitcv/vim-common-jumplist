@@ -1,6 +1,7 @@
 nnoremap <silent> m` :call common_jumplist#PushLocation()<CR>m`
 nnoremap <silent> m' :call common_jumplist#PushLocation()<CR>m'
 nnoremap <silent> G :call common_jumplist#PushLocation()<CR>G
+nnoremap <silent> gg :call common_jumplist#PushLocation()<CR>gg
 nnoremap <silent> <C-w>h :call common_jumplist#PushLocation()<CR><C-w>h
 nnoremap <silent> <C-w>j :call common_jumplist#PushLocation()<CR><C-w>j
 nnoremap <silent> <C-w>k :call common_jumplist#PushLocation()<CR><C-w>k
